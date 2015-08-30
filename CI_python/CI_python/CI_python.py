@@ -23,6 +23,7 @@ q0=q0*180/math.pi
 q2=round(q2.real)
 q1=round(q1.real)
 q0=round(q0.real)
+#print
 print(q0)
 print(q1)
 print(q2)
